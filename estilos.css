@@ -31,3 +31,14 @@ background-image: url(descarga.jpg);
 background-repeat: no-repeat;
 }
 
+.cuerpo{
+    font-size: 30PX;
+    padding-top: 40px;
+    text-align: justify;
+    color: rgb(20, 20, 20);
+}
+
+.img2{
+    margin-right: auto;
+}
+
